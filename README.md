@@ -1,6 +1,6 @@
 geolocator
 ==========
 
-HTML5 Geolocator using Google Maps
+Google Maps Javascript API Geolocator example
 
 Demo on http://CodyReichert.github.io/geolocator/
